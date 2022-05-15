@@ -21,9 +21,6 @@ const Technologies = () => (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <picture>
-          <DiFirebase size="3rem" />
-        </picture>
         <DiFirebase size="3rem" />
         <ListContainer>
           <ListTitle>Back-end</ListTitle>
